@@ -3,4 +3,3 @@ class Author
 
 end
 
-Author.new
