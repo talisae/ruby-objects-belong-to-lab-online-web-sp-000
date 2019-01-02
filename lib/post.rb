@@ -4,4 +4,4 @@ class Post
 
 end
 
-Post.new.author
+Post.new
