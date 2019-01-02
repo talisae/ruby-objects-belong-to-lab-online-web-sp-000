@@ -3,3 +3,5 @@ class Post
 
 
 end
+
+Post.new.author
